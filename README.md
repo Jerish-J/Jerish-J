@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerish-j&show_icons=true&locale=en" alt="jerish-j" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerish-j&" alt="jerish-j" /></p>
-<p><img align="center" src="https://holopin.io/api/user/board?user=jerish" alt="jerish-j" /></p>
+
