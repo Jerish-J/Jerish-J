@@ -41,16 +41,6 @@ I am a Computer Science Engineer specializing in **Backend Architecture** and **
 > *   **The Stack:** React, Node.js, MongoDB, Socket.io.
 > *   **The Result:** A production-ready SaaS deployed on Render & Vercel.
 
-<div align="center">
-<a href="https://sync-board-k8wv5hcrq-jerish-js-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Jerish-J/SyncBoard">
-  <img src="https://img.shields.io/badge/View_Source_Code-24292E?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-
 ---
 
 ### 🛠️ The Arsenal (Tech Stack)
@@ -65,20 +55,3 @@ I don't just use tools; I understand how they work under the hood.
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jerish-J&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Jerish's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jerish-J&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="170" alt="Jerish's Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerish-J&theme=tokyonight&hide_border=true&background=0D1117" alt="Jerish's Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
